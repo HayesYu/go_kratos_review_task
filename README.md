@@ -1,5 +1,8 @@
 # Kratos Project Template
 
+## review-task端
+主要用于读取kafka中topic消息，将其写入elasticsearch中。详见https://github.com/HayesYu/go_kratos_review_service
+
 ## Install Kratos
 ```
 go install github.com/go-kratos/kratos/cmd/kratos/v2@latest
